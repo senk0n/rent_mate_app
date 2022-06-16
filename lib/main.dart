@@ -1,8 +1,6 @@
 import 'package:flex_color_scheme/flex_color_scheme.dart';
 import 'package:flutter/material.dart';
 
-import 'data/login/remote/model/login_remote_request.dart';
-
 void main() {
   runApp(const MyApp());
   // LoginRemoteRequest test = LoginRemoteRequest(login: "a", password: "b");
